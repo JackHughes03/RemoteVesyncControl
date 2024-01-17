@@ -6,7 +6,7 @@ At the moment the project only has access to purifiers although in later version
 ### Built with
 This project was built with python using the pycharm IDE. The gui was built with pysimplegui.
 
-## Requirements
+### Requirements
 1. Keyring - pip install keyring
 2. PySimpleGUI - pip install pysimplegui
 3. pyvesync - pip install pyvesync
