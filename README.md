@@ -3,7 +3,7 @@ A small little project that allows the remote control of VeSync devices.
 The project utilises the pyvesync api which helps gain remote access to a vesync account.
 At the moment the project only has access to purifiers although in later versions there will be a dropdown menu for other devices.
 
-### Build with
+### Built with
 This project was built with python using the pycharm IDE. The gui was built with pysimplegui.
 
 ## Requirements
